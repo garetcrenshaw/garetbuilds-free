@@ -68,4 +68,4 @@ Agents **draft**. You **approve**. Anything that sends, posts, pays, deletes or 
 5. Hand it one real task this week and watch where it gets stuck. Fix that, then add the next seat.
 
 ---
-Want this built around your business and run for you every month? Free 20-minute audit at garetbuilds.ai.
+Want this built around your business and run for you every month? Free 20-minute audit at [garetbuilds.com](https://garetbuilds.com/).

@@ -1,6 +1,6 @@
 # Photo to ink etching
 
-The script that turned my headshot into the portrait on garetbuilds.ai. It draws your photo as thousands of engraved lines, like the faces on paper money, and saves an SVG you can scale to any size.
+The script that turned my headshot into the portrait on [garetbuilds.com](https://garetbuilds.com/). It draws your photo as thousands of engraved lines, like the faces on paper money, and saves an SVG you can scale to any size.
 
 ![Example](examples/garet-etching.png)
 
