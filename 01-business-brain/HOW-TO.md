@@ -32,4 +32,4 @@ If the reply sounds like you and gets the facts right, you're done. If not, the 
 Update section 8 ("Right now") once a month. Everything else rarely changes.
 
 ---
-Want this set up and wired into your inbox for you? Free 20-minute audit at garetbuilds.ai.
+Want this set up and wired into your inbox for you? Free 20-minute audit at [garetbuilds.com](https://garetbuilds.com/).

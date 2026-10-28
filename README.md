@@ -2,7 +2,7 @@
 
 Five things I actually use to run my businesses with AI, stripped down so you can set them up yourself.
 
-I'm Garet. I build and run AI systems that take work off business owners' plates. If you'd rather have me set any of this up for you, book a free 20-minute audit at garetbuilds.ai.
+I'm Garet. I build and run AI systems that take work off business owners' plates. If you'd rather have me set any of this up for you, book a free 20-minute audit at [garetbuilds.com](https://garetbuilds.com/).
 
 | # | What it is | Who it's for | Time to set up |
 |---|---|---|---|
